@@ -1,0 +1,405 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/La_1.png" group-title="SPAIN",LA 1 HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18487
+
+#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="LA 1 FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/La_1_HD.png" group-title="SPAIN",LA 1 FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18488
+
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="La 2 HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/La_2.png" group-title="SPAIN",La 2 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18490
+
+#EXTINF:-1 tvg-id="LA 2 HD" tvg-name="LA 2 HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/La_2_HD.png" group-title="SPAIN",LA 2 HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70241
+
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/antena3.png" group-title="SPAIN",ANTENA 3 HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18492
+
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/antena3.png" group-title="SPAIN",ANTENA 3 FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18493
+
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://raw.githubusercontent.com/maincen
+
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="CUATRO FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Cuatro_HD.png" group-title="SPAIN",CUATRO FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18496
+
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Telecinco.png" group-title="SPAIN",TELECINCO HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18498
+
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="TELECINCO FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Telecinco_HD.png" group-title="SPAIN",TELECINCO FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18499
+
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/laSexta.png" group-title="SPAIN",LA SEXTA HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18501
+
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/laSexta_HD.png" group-title="SPAIN",LA SEXTA HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18502
+
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="Atreseries HD " tvg-logo="https://i.ibb.co/K9LxZ1T/a3series.png" group-title="SPAIN",Atreseries HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70243
+
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/neox.png" group-title="SPAIN",NEOX
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70259
+
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/nova.png" group-title="SPAIN",NOVA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70270
+
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="Mega HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/mega.png" group-title="SPAIN",Mega HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70252
+
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/BeMad_tv_HD.png" group-title="SPAIN",BE MAD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70253
+
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA" tvg-logo="https://i.ibb.co/HpYdHP5/mtv.png" group-title="SPAIN",MTV ESPAÑA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18617
+
+
+#EXTINF:-1 tvg-id="Ten" tvg-name="Ten" tvg-logo="https://i.ibb.co/X7FRPQn/Ten.png" group-title="SPAIN",Ten
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70315
+
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY" tvg-logo="https://i.ibb.co/QbrMrfF/divinity.png" group-title="SPAIN",DIVINITY
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70251
+
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://i.ibb.co/fnfqjVM/DKiss.png" group-title="SPAIN",DKISS
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18604
+
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="Discovery MAX" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/7Discovery_MAX.png" group-title="SPAIN",Discovery MAX
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18603
+
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Energy.png" group-title="SPAIN",ENERGY
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70261
+
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD" tvg-logo="https://i.ibb.co/7rHbdx2/Movistar-0.png" group-title="SPAIN",#0 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18504
+
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD" tvg-logo="https://i.ibb.co/7rHbdx2/Movistar-0.png" group-title="SPAIN",#0 HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18506
+
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="M.ESTRENOS HD" tvg-logo="https://i.ibb.co/K2m4f48/Estrenos.png" group-title="SPAIN",M.ESTRENOS HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18508
+
+#EXTINF:-1 tvg-id="M.ESTRENOS FHD" tvg-name="M.ESTRENOS FHD" tvg-logo="https://i.ibb.co/K2m4f48/Estrenos.png" group-title="SPAIN",M.ESTRENOS FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18509
+
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="M. ACCION HD" tvg-logo="https://i.ibb.co/6vG8bh3/Accion.png" group-title="SPAIN",M. ACCION HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18511
+
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="M. ACCION FHD" tvg-logo="https://i.ibb.co/6vG8bh3/Accion.png" group-title="SPAIN",M. ACCION FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70309
+
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. Cine Español" tvg-logo="https://i.ibb.co/qkZZWy6/Movistar-Cine-Esp.png" group-title="SPAIN",M. Cine Español
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18519
+
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD" tvg-logo="https://i.ibb.co/qkZZWy6/Movistar-Cine-Esp.png" group-title="SPAIN",M. DRAMA HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18517
+
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="M.COMEDIA" tvg-logo="https://i.ibb.co/NWL89kB/Movistar-Comedia.png" group-title="SPAIN",M.COMEDIA 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18514
+
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD" tvg-logo="https://i.ibb.co/NWL89kB/Movistar-Comedia.png" group-title="SPAIN",M.COMEDIA HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70308
+
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-name="M.CineDocRoll" tvg-logo="https://i.ibb.co/Khk7J6y/Movistar-Cine-Doc-Roll.png" group-title="SPAIN",M.CineDocRoll 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18521
+
+#EXTINF:-1 tvg-id="M.CineDocRoll" tvg-name="M.CineDocRoll" tvg-logo="https://i.ibb.co/Khk7J6y/Movistar-Cine-Doc-Roll.png" group-title="SPAIN",M.CineDocRoll
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18522
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/TNT.png" group-title="SPAIN",TNT HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18545
+
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/TNT.png" group-title="SPAIN",TNT FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18546
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/FOX.png" group-title="SPAIN",FOX HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18551
+
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="FOX FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/FOX_HD.png" group-title="SPAIN",FOX FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18552
+
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/FOX_life.png" group-title="SPAIN",FOX LIFE HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18554
+
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="FOX LIFE FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/FOX_life_HD.png" group-title="SPAIN",FOX LIFE FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18555
+
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://i.ibb.co/FXzjS6J/Calle-13.png" group-title="SPAIN",CALLE 13 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18566
+
+#EXTINF:-1 tvg-id="CALLE 13 FHD" tvg-name="CALLE 13 FHD" tvg-logo="https://i.ibb.co/FXzjS6J/Calle-13.png" group-title="SPAIN",CALLE 13 FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18567
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/AMC.png" group-title="SPAIN",AMC HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18576
+
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/AMC.png" group-title="SPAIN",AMC FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18575
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://i.ibb.co/fD3DHwk/AXN.png" group-title="SPAIN",AXN HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18570
+
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/fD3DHwk/AXN.png" group-title="SPAIN",AXN FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18571
+
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="https://i.ibb.co/mDxD1Gy/AXN-White-HD.png" group-title="SPAIN",AXN WHITE HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18569
+
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="https://i.ibb.co/mDxD1Gy/AXN-White-HD.png" group-title="SPAIN",AXN WHITE FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18572
+
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.ibb.co/3y9rLH3/HWD-logo-png.png" group-title="SPAIN",HOLLYWOOD HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18524
+
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://i.ibb.co/3y9rLH3/HWD-logo-png.png" group-title="SPAIN",HOLLYWOOD FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18525
+
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/SyFy.png" group-title="SPAIN",SYFY HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18548
+
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SYFY FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/SyFy_HD.png" group-title="SPAIN",SYFY FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18549
+
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/TCM.png" group-title="SPAIN",TCM HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18526
+
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/TCM_HD.png" group-title="SPAIN",TCM HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18527
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://i.ibb.co/8PDh8FF/Comedy-Central.png" group-title="SPAIN",COMEDYCENTRAL HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18562
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://i.ibb.co/8PDh8FF/Comedy-Central.png" group-title="SPAIN",COMEDYCENTRAL HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18563
+
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/COSMO_HD.png" group-title="SPAIN",COSMO HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18561
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://i.ibb.co/cCMwj9t/Paramount-Network.png" group-title="SPAIN",PARAMOUNT
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18619
+
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://i.ibb.co/LRrK0gc/XTRM.png" group-title="SPAIN",XTRM  
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18534
+
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Sundance_Channel.png" group-title="SPAIN",SUNDANCE TV
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18530
+
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Sundance_Channel_HD.png" group-title="SPAIN",SUNDANCE TV
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18531
+
+#EXTINF:-1 tvg-id="Dark" tvg-name="Dark" tvg-logo="https://i.ibb.co/0h4wVS5/DARK.png" group-title="SPAIN",Dark
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18536
+
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://i.ibb.co/dPjQScf/Blaze.png" group-title="SPAIN",BLAZE 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18612
+
+#EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://i.ibb.co/5sYS3x0/vamos.png" group-title="SPAIN",#VAMOS
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19022
+
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS HD" tvg-logo="https://i.ibb.co/5sYS3x0/vamos.png" group-title="SPAIN",#VAMOS HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19023
+
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M. LaLiga HD" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19033
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="M. LaLiga FHD" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga FHD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19034
+
+#EXTINF:-1 tvg-id="M. LaLiga FHD#" tvg-name="M. LaLiga FHD#" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga FHD#
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19095
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-name="M.LCAMPEONES" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEONES
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27647
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="M.LCAMPEONES HD" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEONES HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19049 
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="M.LCAMPEONES HD#" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEONES HD#
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/37066
+
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON1" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON1
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27651
+
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON2" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON2
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27656
+
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LALIGATV BAR" tvg-logo="https://i.ibb.co/5hg71gY/laligatv.png" group-title="SPAIN",LALIGATV BAR 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19027
+
+#EXTINF:-1 tvg-id="LaLiga TV FHD" tvg-name="LaLiga TV FHD" tvg-logo="https://i.ibb.co/5hg71gY/laligatv.png" group-title="SPAIN",LaLiga TV FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19028
+
+#EXTINF:-1 tvg-id="M. DEPORTES" tvg-name="M. DEPORTES" tvg-logo="https://i.ibb.co/0XwVmcr/Movistar-Deportes.png" group-title="SPAIN",M. DEPORTES
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19061
+
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="M. DEPORTE HD" tvg-logo="https://i.ibb.co/0XwVmcr/Movistar-Deportes.png" group-title="SPAIN",M. DEPORTE HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19062
+
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD" tvg-logo="https://i.ibb.co/0f8xxvq/Movistar-Golf.png" group-title="SPAIN",M. GOLF HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19077
+
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="M. GOLF FHD" tvg-logo="https://i.ibb.co/0f8xxvq/Movistar-Golf.png" group-title="SPAIN",M. GOLF FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19078
+
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="EUROSPORT1 HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/EuroSport.png" group-title="SPAIN",EUROSPORT1 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19084
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/EuroSport_2.png" group-title="SPAIN",EUROSPORT 2
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19085
+
+#EXTINF:-1 tvg-id="U-BEAT" tvg-name="U-BEAT" tvg-logo="https://i.ibb.co/d4twkJk/U-Beat.png" group-title="SPAIN",U-BEAT
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70219
+
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="https://i.ibb.co/bm8xbKb/BarcaTV.png" group-title="SPAIN",BARCA TV
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19089
+
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3" tvg-logo="https://i.ibb.co/qgTKpMD/esport-3.png" group-title="SPAIN",Esport 3
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27688
+
+#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL HD" tvg-logo="https://i.ibb.co/QpdVYxz/Gol-TV.png" group-title="SPAIN",GOL HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/37073
+
+#EXTINF:-1 tvg-id="Futbol Replay" tvg-name="Futbol Replay" tvg-logo="https://i.ibb.co/6bwhSrs/Futbol-Replay.png" group-title="SPAIN",Futbol Replay
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70215
+
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Teledeporte.png" group-title="SPAIN",TELEDEPORTE
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70266
+
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON1" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON1
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27651
+
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON2" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON2
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27656
+
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON3" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON3  
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27657
+
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON4" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON4
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27658
+
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON5" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON5
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27659
+
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON6" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON6 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27660
+
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON7" tvg-logo="https://i.ibb.co/Cs9SFW7/Movistar-Liga-de-Campeones.png" group-title="SPAIN",M.LCAMPEON7  
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27661
+
+#EXTINF:-1 tvg-id="LaLigatv BAR 1" tvg-name="LaLigatv BAR 1" tvg-logo="https://i.ibb.co/5hg71gY/laligatv.png" group-title="SPAIN",LaLigatv BAR 1 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27641
+
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M. LaLiga 1 HD" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga 1 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/27629
+
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M. LaLiga 2 HD" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga 2 HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19038
+
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M. LaLiga 3 HD" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga 3 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19040
+
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M. LaLiga 4" tvg-logo="https://i.ibb.co/CJyvqCm/Movistar-La-liga.png" group-title="SPAIN",M. LaLiga 4
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19041
+
+#EXTINF:-1 tvg-id="M.FORMULA1" tvg-name="M.FORMULA1" tvg-logo="https://i.ibb.co/Y0ZH4Dm/Movistar-Formula-1-svg.png" group-title="SPAIN",M.FORMULA1
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19074
+
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-name="M.FORMULA1 HD" tvg-logo="https://i.ibb.co/Y0ZH4Dm/Movistar-Formula-1-svg.png" group-title="SPAIN",M.FORMULA1 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/19075
+
+#EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-name="M.FORMULA1 HD" tvg-logo="https://i.ibb.co/Y0ZH4Dm/Movistar-Formula-1-svg.png" group-title="SPAIN",M.FORMULA1 HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/110771
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Moto GP" tvg-logo="https://i.ibb.co/WyjS2CG/dazn.png" group-title="SPAIN",DAZN Moto GP
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/37116
+
+#EXTINF:-1 tvg-id="M. SERIES" tvg-name="M. SERIES" tvg-logo="https://i.ibb.co/jJkYyPt/Movistar-Series.png" group-title="SPAIN",M. SERIES 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18539
+
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M. SERIES HD" tvg-logo="https://i.ibb.co/jJkYyPt/Movistar-Series.png" group-title="SPAIN",M. SERIES HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18540
+
+#EXTINF:-1 tvg-id="mseriesmania" tvg-name="M. Seriesmanía" tvg-logo="https://i.ibb.co/02QDZfY/Movistar-Seriesman-a.png" group-title="SPAIN",mseriesmania
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18542
+
+#EXTINF:-1 tvg-id="M.Seriesmania HD" tvg-name="M.Seriesmania HD" tvg-logo="https://i.ibb.co/02QDZfY/Movistar-Seriesman-a.png" group-title="SPAIN",M.Seriesmania HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18543
+
+#EXTINF:-1 tvg-id="Orange Series" tvg-name="Orange Series" tvg-logo="https://i.ibb.co/4VKHmYx/Orange-Series.png" group-title="ESPAÑA",Orange Series
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70302
+
+#EXTINF:-1 tvg-id="Orange Series" tvg-name="Orange Series" tvg-logo="https://i.ibb.co/4VKHmYx/Orange-Series.png" group-title="ESPAÑA",Orange Series
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/70301
+
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/National_Geographic.png" group-title="SPAIN",NAT GEO
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18627
+
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NAT GEO FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/National_Geographic_HD.png" group-title="SPAIN",NAT GEO FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18628
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/WgNsfWw/Nat-Geo-Wild.png" group-title="SPAIN",NAT GEO WILD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18631
+
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.ibb.co/WgNsfWw/Nat-Geo-Wild.png" group-title="SPAIN",NAT GEO WILD HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18632
+
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="https://i.ibb.co/3R8pL2v/Historia.png" group-title="SPAIN",HISTORIA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18634
+
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA FHD" tvg-logo="https://i.ibb.co/3R8pL2v/Historia.png" group-title="SPAIN",HISTORIA FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18635
+
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Odisea.png" group-title="SPAIN",CANAL ODISEA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/36971
+
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Odisea_HD.png" group-title="SPAIN",CANAL ODISEA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/57291
+
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="CAZAyPESCA" tvg-logo="https://i.ibb.co/c8VHN4y/Caza-y-Pesca.png" group-title="SPAIN",CAZAyPESCA 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18637
+
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://i.ibb.co/c8VHN4y/Caza-y-Pesca.png" group-title="SPAIN",CAZAyPESCA HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18638
+
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV" tvg-logo="https://i.ibb.co/GsnMHvR/Iberalia-TV.jpg" group-title="SPAIN",IBERALIA TV
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18639
+
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Viajar.png" group-title="SPAIN",VIAJAR HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18623
+
+#EXTINF:-1 tvg-id="VIAJAR FHD" tvg-name="VIAJAR FHD" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/Viajar.png" group-title="SPAIN",VIAJAR FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18624
+
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="NICKELODEON HD" tvg-logo="https://i.ibb.co/PgKm0G5/Nickelodeon.png" group-title="SPAIN",NICKELODEON HD 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18580
+
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON FHD" tvg-logo="https://i.ibb.co/PgKm0G5/Nickelodeon.png" group-title="SPAIN",NICKELODEON FHD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18579
+
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CH HD" tvg-logo="https://i.ibb.co/5MYWnf3/Disney-Channel.png" group-title="SPAIN",DISNEY CH HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18586
+
+#EXTINF:-1 tvg-id="Movistar Disney +" tvg-name="Movistar Disney +" tvg-logo="https://i.ibb.co/Z1cCyd1/Movistar-Disney.png" group-title="SPAIN",Movistar Disney +
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18583
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus HD" tvg-logo="https://i.ibb.co/xC8rXZs/Disney-Plus.png" group-title="SPAIN",Disney Plus HD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/57292
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/nDRvFjT/Disney-XD.png" group-title="SPAIN",Disney XD
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18588
+
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-logo="https://i.ibb.co/0XR8QK7/Boing.png" group-title="SPAIN",BOING
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18593
+
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN  TVE" tvg-logo="https://i.ibb.co/f27hDNm/Clan-TV.png" group-title="SPAIN",CLAN  TVE
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18590
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/VVHjXdj/Nick-Jr.png" group-title="SPAIN",NICK JR
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18582
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://i.ibb.co/PTS6tGB/Disney-Junior.png" group-title="SPAIN",DISNEY JR
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/52084
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/BHJhh1b/Baby-tv.png" group-title="SPAIN",BABY TV 
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18594
+
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://i.ibb.co/7j0jpds/Canal-Panda.png" group-title="SPAIN",CANAL PANDA
+http://bestqualityservice.ddns.net:8080/ServLinea67/gz9NpxBI3z/18592
